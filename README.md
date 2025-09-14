@@ -8,10 +8,10 @@
 I realize complex systems with **Systems Engineering & MBSE** — architecture → requirements → modeling → integration → **V&V**.
 
 ### Research interests
-**Intelligent robotic systems** — autonomy & control, perception, HRI, medical/field robotics.  
+**Intelligent robotic systems** — autonomy & control, navigation, autonomy, perception, HRI, medical/field robotics.  
 I enjoy turning “impossible” problems into working prototypes.
 
-### Tech stack (from my CV)
+### Tech stack
 - **Robotics & Control:** Ubuntu, ROS, Gazebo, CoppeliaSim, MATLAB/Simulink, LabVIEW  
 - **Programming:** C/C++, Python, Assembly, **Qt**  
 - **Embedded:** AVR, **ESP32**, ATmega2560  
@@ -21,3 +21,7 @@ I enjoy turning “impossible” problems into working prototypes.
 
 ### Hobbies
 Hiking & exploring nature • Continuous learning • Outdoor Sport
+
+## GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaimoorShabbir01&layout=compact&theme=tokyonight&border_radius=10px)](https://github.com/anuraghazra/github-readme-stats)
+
