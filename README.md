@@ -5,7 +5,7 @@
 ---
 
 ### What I do
-I realize complex systems with **Systems Engineering & MBSE** — architecture → requirements → modeling → integration → **V&V**.
+I realize complex systems with **Systems Engineering & MBSE** — architecture → requirements → modeling → development → integration → **V&V**.
 
 ### Research interests
 **Intelligent robotic systems** — autonomy & control, navigation, autonomy, perception, HRI, medical/field robotics.  
