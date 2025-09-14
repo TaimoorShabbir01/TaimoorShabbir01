@@ -1,6 +1,6 @@
-<h1 align="center">⚡ Hey, I'm Taimoor Shabbir ⚡</h1>
+<h1 align="center"> Hey, I'm Taimoor Shabbir </h1>
 <p align="center">
-  🚀 Robotics & Avionics Engineer | 🤖 Researcher in Intelligent Systems | 🛠️ Builder of SIL/HIL Labs
+   Mechatronics Engineer | Systems Engineer | Robotics
 </p>
 
 ---
@@ -14,18 +14,11 @@ From avionics integration labs to surgical robotics, my work blends:
 
 ---
 
-### 🔥 Current Missions
-- 🛠️ Architecting **Zaavia**: a modular platform for avionics wiring traceability & system integration  
-- 🧪 Exploring **cooperative manipulation** in human-robot collaboration  
-- 🎓 Preparing for MSc/PhD in **Robotics / Intelligent Control / Biomedical Systems**  
-
----
-
 ### 🛠️ My Toolbox
 - **Languages:** C++, Python, MATLAB, Qt  
 - **Frameworks:** ROS2, OpenCV, PyGame, SysML  
 - **Hardware:** NI-PXIe, ESP32, Raspberry Pi, UR5, PX4  
-- **Extras:** HIL/SIL lab design, control systems optimization, DOORS traceability  
+- **Systems Engineering:** HIL/SIL lab design, DOORS traceability, MBSE 
 
 ---
 
@@ -35,14 +28,7 @@ From avionics integration labs to surgical robotics, my work blends:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical" height="165">
 </p>
 
----
 
-### 🎯 Beyond Code
-- 🏋️ Fitness & self-discipline are my daily fuel  
-- 🌱 Building awareness in **agriculture & sustainability** via digital platforms  
-- 🎨 I love crafting **clean UIs, icons, and diagrams** that explain complex systems  
-
----
 
 ### 🌍 Let’s Connect
 - 📧 **Email:** taimoorshabir06b@gmail.com  
@@ -50,5 +36,3 @@ From avionics integration labs to surgical robotics, my work blends:
 - 📂 **Portfolio / Projects:** *coming soon… stay tuned!*  
 
 ---
-
-<p align="center">✨ "Robotics isn’t just about automation—it’s about extending human capability." ✨</p>
